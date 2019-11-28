@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android_Architecture</string>
+    <string name="invalid_credentials">Authentication failed</string>
+    <string name="bad_request" />
+    <string name="error_something_wrong">error_something_wrong</string>
+    <string name="msg_network_connection">Your internet connection has been lost</string>
+    <string name="err_dob_blank">Dob is required.</string>
+    <string name="err_gender_blank">Gender is required.</string>
+    <string name="err_email_blank">Email is required.</string>
+    <string name="err_email_valid">Email must be valid</string>
+    <string name="err_password_blank">Password is required</string>
+    <string name="err_password_lenght">Password must be greater than 8 characters.</string>
+    <string name="err_old_new_password_not_same">Old password and new password can not be same.</string>
+    <string name="err_new_con_password_does_not_match">Please password confirm doesn\'t match</string>
+    <string name="err_phone_number">Phone number is required</string>
+    <string name="err_phone_number_10_lenght">Phone number field must accept minimum 10 digits.</string>
+    <string name="err_first_name">First name is required</string>
+    <string name="err_first_name_3_lenght">First name field must accept minimum 3 digits</string>
+    <string name="err_last_name">Last name is required</string>
+    <string name="err_last_name_3_character">Last name field must accept minimum 3 digits</string>
+    <string name="err_purpose">Purpose is required</string>
+    <string name="phone_number">Enter the Phone Number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_account">Do not have account</string>
+    <string name="register">Register</string>
+</resources>
